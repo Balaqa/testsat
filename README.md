@@ -1,2 +1,2 @@
 # testsat
-test rep sat
+test rep sat -- edit readme
